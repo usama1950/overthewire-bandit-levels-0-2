@@ -76,3 +76,7 @@ cat "./--spaces in this filename--"
 
 **Concept learned:** Handling spaces and special characters in filenames using quotation marks and relative paths.
 
+
+## Security Note
+
+All discovered passwords have been redacted from this public report to protect account security.
